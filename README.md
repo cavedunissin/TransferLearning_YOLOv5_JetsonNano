@@ -1,0 +1,2 @@
+# TransferLearning_YOLOv5_JetsonNano
+使用JetsonNano實作TransferLearning
